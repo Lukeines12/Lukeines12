@@ -1,5 +1,5 @@
-# LUKEINES 12 ⚡
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Lukeines12%2C+o+Lend%C3%A1rio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geo&weight=200&size=30&pause=1000&color=00D1F7&background=0060FF2C&center=true&width=435&lines=Lukeines12+-+O+Lend%C3%A1rio)](https://git.io/typing-svg)
+
 ## Saudações 👋
 
 ### Progamo nessas linguagens ai:
