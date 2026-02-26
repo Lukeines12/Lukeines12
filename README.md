@@ -6,7 +6,7 @@
 
 
  
- <img width='1000' height='1000' src="https://icons8.com.br/icon/40670/c-programming" />
+ <img width='1000' height='1000' src="https://programacaopratica.com.br/tag/palavras-reservadas-linguagem-c/" />
 <!--
 **Lukeines12/Lukeines12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
