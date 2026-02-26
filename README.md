@@ -11,7 +11,6 @@
 
  ### Pretendo Aprender:
 
- <img width="100" height="100" alt="image" src="<img width="724" height="561" alt="image" src="https://github.com/user-attachments/assets/63fd0fa8-1206-40b2-8a38-da2aaf112e0d" />
-" />
+ <img width="724" height="561" alt="image" src="https://github.com/user-attachments/assets/63fd0fa8-1206-40b2-8a38-da2aaf112e0d" />
 
 ![Snake animation](https://github.com/lukeines12/lukeines12/blob/output/github-contribution-grid-snake.svg)
