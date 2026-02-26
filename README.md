@@ -2,7 +2,7 @@
 
 ## Saudações 👋
 
-### Vou criar um perfil massa, espera ai
+### Progamo nessas linguagens ai:
 
 
  
