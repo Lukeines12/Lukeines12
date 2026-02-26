@@ -1,4 +1,4 @@
-# LUKEINES 12 😎
+# LUKEINES 12 ⚡
 
 ## Saudações 👋
 
