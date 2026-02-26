@@ -4,7 +4,7 @@
 
 ### Vou criar um perfil massa, espera ai
 
- <img width='1000' height='1000' scr="https://img.icons8.com/color/512/c-programming.png"/>
+ <img width='1000' height='1000' scr="https://icons8.com.br/icons/set/c-programming"/>
 <!--
 **Lukeines12/Lukeines12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
