@@ -4,7 +4,7 @@
 
 ### Vou criar um perfil massa, espera ai
 
- <img width='50' heigth='50' scr"https://www.google.com/imgres?q=linguagem%20c%20simbolo&imgurl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F512%2Fc-programming.png&imgrefurl=https%3A%2F%2Ficons8.com.br%2Ficons%2Fset%2Fc-programming&docid=q9MccbBCEWoXiM&tbnid=TWUk4NwSBbyxKM&vet=12ahUKEwiCv-_ogveSAxWVCrkGHfmKM3IQnPAOegQIIBAB..i&w=512&h=512&hcb=2&ved=2ahUKEwiCv-_ogveSAxWVCrkGHfmKM3IQnPAOegQIIBAB"/>
+ <img width='50' heigth='50' scr"https://img.icons8.com/color/512/c-programming.png"/>
 <!--
 **Lukeines12/Lukeines12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
