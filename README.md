@@ -1,6 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=#0000FF,100:4c1d95&text=Lucas%20Lemos&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=twinkling&fontAlign=50"/>
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0000FF,50:00FFFF,100:0000FF&text=Lucas%20Lemos&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=twinkling&fontAlign=50"/>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geo&weight=6000&size=30&pause=1000&color=00D1F7&background=0060FF2C&center=true&width=500&lines=Lukeines12+-+O+Lend%C3%A1rio)](https://git.io/typing-svg)
