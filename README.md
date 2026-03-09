@@ -18,11 +18,26 @@
 
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/63fd0fa8-1206-40b2-8a38-da2aaf112e0d" />
 
-![](https://github-readme-stats-fast.vercel.app/api/streak?username=Lukeines12&theme=github-dark)<br><br>
-![](https://github-readme-stats-fast.vercel.app/api?username=Lukeines12&show_icons=true&theme=github-dark)<br><br>
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukeines12&layout=compact&theme=github-dark)
- 
-<br><br>
+<div align="center">
+
+  <!-- Streak -->
+  <img src="https://github-readme-stats.vercel.app/api/streak?username=Lukeines12&theme=github_dark" />
+
+  <br>
+
+  <!-- Stats e Top langs lado a lado -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Lukeines12&show_icons=true&theme=github_dark&hide_title=true&count_private=true&card_width=300" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeines12&layout=compact&theme=github_dark&card_width=300" />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 
 
