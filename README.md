@@ -18,28 +18,18 @@
 
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/63fd0fa8-1206-40b2-8a38-da2aaf112e0d" />
 
+
+
+
 <div align="center">
 
-  <!-- Streak -->
-  <img src="https://github-readme-stats.vercel.app/api/streak?username=Lukeines12&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/streak?username=Lukeines12&theme=github_dark"/>
 
-  <br>
+<img src="https://github-readme-stats.vercel.app/api?username=Lukeines12&show_icons=true&theme=github_dark"/>
 
-  <!-- Stats e Top langs lado a lado -->
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Lukeines12&show_icons=true&theme=github_dark&hide_title=true&count_private=true&card_width=300" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeines12&layout=compact&theme=github_dark&card_width=300" />
-      </td>
-    </tr>
-  </table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeines12&layout=compact&theme=github_dark"/>
 
 </div>
-
-
 
 
 [![Lukeines12's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lukeines12&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
