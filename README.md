@@ -18,7 +18,7 @@
 
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/63fd0fa8-1206-40b2-8a38-da2aaf112e0d" />
 
-
+### Dados e Estatísticas 📊
 
 
 ![](https://github-readme-stats-fast.vercel.app/api/streak?username=Lukeines12&theme=github_dark)<br><br> 
@@ -28,7 +28,7 @@
 [![Lukeines12's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lukeines12&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
+#### Experimentações
 
 ![Snake animation](https://github.com/lukeines12/lukeines12/blob/output/github-contribution-grid-snake.svg)
 
