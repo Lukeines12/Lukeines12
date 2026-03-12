@@ -28,7 +28,7 @@
 [![Lukeines12's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lukeines12&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-#### Experimentações
+#### Experimentos 🧪
 
 ![Snake animation](https://github.com/lukeines12/lukeines12/blob/output/github-contribution-grid-snake.svg)
 
