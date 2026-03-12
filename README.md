@@ -6,24 +6,27 @@
 </p>
 
 ## Saudações 👋
-
 ### Progamo nessas linguagens ai:
 
 
- 
+<p align="center"> 
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d8c4f259-3f3f-4e07-915e-cbf5572f67c2" />
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/57196a3a-5799-4417-a383-84ff41156547" />
+</p>
 
- ### Pretendo Aprender:
-
+### Pretendo Aprender:
+ <p align="center">
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/63fd0fa8-1206-40b2-8a38-da2aaf112e0d" />
+</p>
 
 ### Dados e Estatísticas 📊
 
-
+<p align="center">
+  
 ![](https://github-readme-stats-fast.vercel.app/api/streak?username=Lukeines12&theme=github_dark)<br><br> 
 ![](https://github-readme-stats-fast.vercel.app/api?username=Lukeines12&show_icons=true&theme=github_dark)<br><br> 
 ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukeines12&layout=compact&theme=github_dark) <br><br>
+</p>
 
 [![Lukeines12's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lukeines12&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
