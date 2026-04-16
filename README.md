@@ -4,20 +4,20 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira+Stencil&size=28&duration=7000&pause=2000&color=1388F7&background=2E11FF15&center=true&vCenter=true&width=440&height=55&lines=Lukeines12+-+O+Lend%C3%A1rio;T%C3%A9c.+em+Eletroeletr%C3%B4nica+-+SENAI;Programando+por+a%C3%AD+;C+%2C+HTML" alt="Typing SVG" /></a>
   
-## Saudações 👋
+<h2 align="center"> Saudações 👋 </h1>
 
-### Progamando em:
+<h3 align="center"> Progamando em: </h3>
 <p align="center"> 
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d8c4f259-3f3f-4e07-915e-cbf5572f67c2" />
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/57196a3a-5799-4417-a383-84ff41156547" />
 </p>
 
-### Pretendo Aprender:
+<h3 align="center"> Pretendo Aprender: </h3>
  <p align="center">
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/63fd0fa8-1206-40b2-8a38-da2aaf112e0d" />
 </p>
 
-### Dados e Estatísticas 📊
+<h2 align="center"> Dados e Estatísticas 📊 </h2>
 
 <p align="center">
   
@@ -26,10 +26,12 @@
 ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukeines12&layout=compact&theme=github_dark) <br><br>
 </p>
 
+<h2 align="center"> Atividade 🖥️ </h2>
+
 [![Lukeines12's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lukeines12&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-#### Experimentos 🧪
+<h2 align="center"> Experimentos 🧪 </h2>
 
 ![Snake animation](https://github.com/lukeines12/lukeines12/blob/output/github-contribution-grid-snake.svg)
 
