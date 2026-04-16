@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000080,50:000FFF,100:000080&text=Lucas%20Lemos&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=twinkling&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0000FF,50:00FFFF,100:0000FF&text=Lucas%20Lemos&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=twinkling&fontAlign=50"/>
 
 
 <p align="center">
