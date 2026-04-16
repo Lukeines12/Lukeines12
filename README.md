@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira+Stencil&size=28&duration=7000&pause=2000&color=1388F7&background=2E11FF15&center=true&vCenter=true&width=440&height=55&lines=Lukeines12+-+O+Lend%C3%A1rio;T%C3%A9c.+em+Eletroeletr%C3%B4nica+-+SENAI;Programando+por+a%C3%AD+;C+%2C+HTML" alt="Typing SVG" /></a>
   
-<h2 align="center"> Saudações 👋 </h1>
+<h2 align="center"> Saudações 👋 </h2>
 
 <h3 align="center"> Progamando em: </h3>
 <p align="center"> 
@@ -17,19 +17,14 @@
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/63fd0fa8-1206-40b2-8a38-da2aaf112e0d" />
 </p>
 
-<h2 align="center"> Dados e Estatísticas 📊 </h2>
+  
+<h2 align="center"> Estatísticas 📊 </h2>
 
-  
-<p align="center"> 
-  
-  ![](https://github-readme-stats-fast.vercel.app/api/streak?username=Lukeines12&theme=github_dark)<br><br> </p>
-<p align="center"> 
-  
-  ![](https://github-readme-stats-fast.vercel.app/api?username=Lukeines12&show_icons=true&theme=github_dark)<br><br> </p>
-<p align="center"> 
-  
-  ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukeines12&layout=compact&theme=github_dark) <br><br></p>
-
+![](https://github-readme-stats-fast.vercel.app/api/streak?username=Lukeines12&theme=tokyonight)<br><br>
+![](https://github-readme-stats-fast.vercel.app/api?username=Lukeines12&show_icons=true&theme=tokyonight)<br><br>
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukeines12&layout=compact&theme=tokyonight)
+ 
+<br><br>
 
 <h2 align="center"> Atividade 🖥️ </h2>
 
