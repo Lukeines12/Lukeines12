@@ -42,4 +42,6 @@
 
 ![Snake animation](https://github.com/lukeines12/lukeines12/blob/output/github-contribution-grid-snake.svg)
 
+<img src="https://komarev.com/ghpvc/?username=Lukeines12&color=191970&style=for-the-badge"/>
+
 
