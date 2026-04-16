@@ -40,7 +40,13 @@
 
 <h2 align="center"> Experimentos 🧪 </h2>
 
-![Snake animation](https://github.com/lukeines12/lukeines12/blob/output/github-contribution-grid-snake.svg)
+
+
+
+![Snake animation](https://github.com/Lukeines12/Lukeines12/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 <h4 align="center"> Visitas </h4>
 
