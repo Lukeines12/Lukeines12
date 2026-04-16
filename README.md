@@ -19,12 +19,17 @@
 
 <h2 align="center"> Dados e Estatísticas 📊 </h2>
 
-<p align="center">
   
-![](https://github-readme-stats-fast.vercel.app/api/streak?username=Lukeines12&theme=github_dark)<br><br> 
-![](https://github-readme-stats-fast.vercel.app/api?username=Lukeines12&show_icons=true&theme=github_dark)<br><br> 
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukeines12&layout=compact&theme=github_dark) <br><br>
-</p>
+<p align="center"> 
+  
+  ![](https://github-readme-stats-fast.vercel.app/api/streak?username=Lukeines12&theme=github_dark)<br><br> </p>
+<p align="center"> 
+  
+  ![](https://github-readme-stats-fast.vercel.app/api?username=Lukeines12&show_icons=true&theme=github_dark)<br><br> </p>
+<p align="center"> 
+  
+  ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukeines12&layout=compact&theme=github_dark) <br><br></p>
+
 
 <h2 align="center"> Atividade 🖥️ </h2>
 
