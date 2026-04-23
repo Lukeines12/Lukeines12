@@ -43,7 +43,7 @@
 
 
 
-![Snake animation](https://github.com/Lukeines12/Lukeines12/blob/output/github-contribution-grid-snake.svg)
+![gif de cobra](https://github.com/Lukeines12/Lukeines12/blob/output/github-snake-dark.svg)
 
 
 
