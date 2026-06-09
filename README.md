@@ -18,6 +18,7 @@
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/63fd0fa8-1206-40b2-8a38-da2aaf112e0d" />
 </p>
 
+ <h3 align="center"> Contato: </h3>
 <a href="mailto:lukeines77@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
