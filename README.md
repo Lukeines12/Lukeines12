@@ -7,6 +7,18 @@
   
   <h2 align="center"> Saudações 👋 </h2>
 
+<div style="background:rgba(141,110,99,0.08); padding:18px; border-radius:14px; border:1px solid rgba(215,184,153,0.35); line-height:1.6;">
+
+Uma Lenda que surgiu no ano de 2025 no Senai Jandira, sem tempo a perder, ficou 1 termo invicto como o melhor de sua área, superando desafios com diferenças avassaladoras, teve um grande ano de cohecimento e desafios, após o ano acabar, seus feitos diminuiram misteriosamente...
+
+Rumores dizem que Lukeines12 está desbravando novas experiências econômicas, físicas e sociais, onde está tendo resultados como nunca antes, utilizando todo seu vigor e que um dia voltará para reerguer seu império eletroeletrônico novamente...
+
+
+
+
+<h2 align="center"> Esse é o 1º aluno (ELE2IT) a fazer um perfil README 📍 </h2>
+
+</div>
 <h3 align="center"> Progamando em: </h3>
 <p align="center"> 
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d8c4f259-3f3f-4e07-915e-cbf5572f67c2" />
@@ -22,8 +34,6 @@
 <a href="mailto:lukeines77@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<h2 align="center"> Esse é o 1º aluno (ELE2IT) a fazer um perfil README 📍 </h2>
     
 <h2 align="center"> Estatísticas 📊 </h2>
 
