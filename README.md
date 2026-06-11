@@ -16,7 +16,7 @@ Rumores dizem que Lukeines12 está desbravando novas experiências econômicas, 
 
 
 
-<h2 align="center"> Esse é o 1º aluno (ELE2IT) a fazer um perfil README 📍 </h2>
+<h2 align="center"> 1º aluno (ELE2IT) a fazer um perfil README 📍 </h2>
 
 </div>
 <h3 align="center"> Progamando em: </h3>
