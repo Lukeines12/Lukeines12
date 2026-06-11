@@ -5,7 +5,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira+Stencil&size=28&duration=7000&pause=2000&color=1388F7&background=2E11FF15&center=true&vCenter=true&width=440&height=55&lines=Lukeines12+-+O+Lend%C3%A1rio;T%C3%A9c.+em+Eletroeletr%C3%B4nica+-+SENAI;Programando+por+a%C3%AD+;C+%2C+HTML" alt="Typing SVG" /></a>
   
-<h2 align="center"> Saudações 👋 </h2>
+  <h2 align="center"> Saudações 👋 </h2>
+  <h2 align="center"> Esse é o 1º aluno a fazer um perfil README 📍 </h2>
 
 <h3 align="center"> Progamando em: </h3>
 <p align="center"> 
