@@ -35,10 +35,12 @@ Rumores dizem que Lukeines12 está desbravando novas experiências econômicas, 
   <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
- <h2 align="center">Sites criados durante o 3ºtermo: </h2>
+ <h2 align="center">Sites criados durante o 3º termo: </h2>
  <div style="background:rgba(141,110,99,0.08); padding:18px; border-radius:14px; border:1px solid rgba(215,184,153,0.35); line-height:1.6;">
 
 Guia de Ferramentas SELDI - https://lukeines12.github.io/SELDI-Guia/
+
+
 Projeto Individual - https://lukeines12.github.io/Projeto-Urna/
 
 
