@@ -34,7 +34,14 @@ Rumores dizem que Lukeines12 está desbravando novas experiências econômicas, 
 <a href="mailto:lukeines77@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-    
+
+ <h2 align="center">Sites criados durante o 3ºtermo: </h2>
+ <div style="background:rgba(141,110,99,0.08); padding:18px; border-radius:14px; border:1px solid rgba(215,184,153,0.35); line-height:1.6;">
+
+https://lukeines12.github.io/SELDI-Guia/
+https://lukeines12.github.io/Projeto-Urna/
+
+
 <h2 align="center"> Estatísticas 📊 </h2>
 
 ![](https://github-readme-stats-fast.vercel.app/api/streak?username=Lukeines12&theme=tokyonight)<br><br>
